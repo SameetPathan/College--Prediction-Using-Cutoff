@@ -16,7 +16,7 @@ function App() {
   const collegeData = {
     colleges: [
       {
-        name: "ABC College",
+        name: "COEP Technological University",
         cutoffs: {
           diploma: 85,
           jee: 120,
@@ -24,7 +24,7 @@ function App() {
         },
       },
       {
-        name: "XYZ University",
+        name: "Pune Institute of Computer Technology, Dhankavdi",
         cutoffs: {
           diploma: 80,
           jee: 110,
@@ -32,7 +32,7 @@ function App() {
         },
       },
       {
-        name: "PQR Institute",
+        name: "Vishwakarma Institute of Technology, Bibwewadi",
         cutoffs: {
           diploma: 90,
           jee: 100,
@@ -40,7 +40,7 @@ function App() {
         },
       },
       {
-        name: "LMN College",
+        name: "Pimpri Chinchwad College of Engineering, Pune",
         cutoffs: {
           diploma: 95,
           jee: 130,
@@ -48,7 +48,7 @@ function App() {
         },
       },
       {
-        name: "EFG University",
+        name: "MIT Academy of Engineering,Alandi, Pune",
         cutoffs: {
           diploma: 75,
           jee: 115,
@@ -56,7 +56,7 @@ function App() {
         },
       },
       {
-        name: "RST Institute",
+        name: "Dr DY Patil Institute of Engineering and Technology, Ambi",
         cutoffs: {
           diploma: 85,
           jee: 125,
@@ -64,7 +64,7 @@ function App() {
         },
       },
       {
-        name: "MNO College",
+        name: "Sinhgad College of Engineering, Vadgaon (BK)",
         cutoffs: {
           diploma: 70,
           jee: 105,
@@ -72,7 +72,7 @@ function App() {
         },
       },
       {
-        name: "UVW University",
+        name: "NBN Sinhgad Technical Institutes Campus",
         cutoffs: {
           diploma: 80,
           jee: 120,
@@ -80,7 +80,7 @@ function App() {
         },
       },
       {
-        name: "GHI Institute",
+        name: "Sinhgad Academy of Engineering, Kondhwa (BK) Kondhwa-Saswad Road",
         cutoffs: {
           diploma: 90,
           jee: 130,
@@ -88,7 +88,7 @@ function App() {
         },
       },
       {
-        name: "JKL College",
+        name: "Indira College of Engineering & Management",
         cutoffs: {
           diploma: 85,
           jee: 110,
@@ -96,7 +96,7 @@ function App() {
         },
       },
       {
-        name: "DEF University",
+        name: "Sinhagad Institute of Technology, Lonavala",
         cutoffs: {
           diploma: 75,
           jee: 105,
@@ -104,7 +104,7 @@ function App() {
         },
       },
       {
-        name: "OPQ Institute",
+        name: "Genba Sopanrao Moze Trust Parvatibai Genba Moze College of Engineering,Wagholi",
         cutoffs: {
           diploma: 95,
           jee: 130,
@@ -112,7 +112,7 @@ function App() {
         },
       },
       {
-        name: "STU College",
+        name: "SKN Sinhgad Institute of Technology & Science, Kusgaon(BK)",
         cutoffs: {
           diploma: 80,
           jee: 120,
@@ -120,7 +120,7 @@ function App() {
         },
       },
       {
-        name: "VWX University",
+        name: "Shree Yash Pratishthan, Shreeyash College of Engineering and Technology",
         cutoffs: {
           diploma: 90,
           jee: 110,
@@ -128,7 +128,7 @@ function App() {
         },
       },
       {
-        name: "CDE Institute",
+        name: "Hi-Tech Institute of Technology, Chh. Sambhajinagar	DBATU",
         cutoffs: {
           diploma: 85,
           jee: 125,

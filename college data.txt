@@ -1,0 +1,17 @@
+College Name						University Name	Course 	Type		Branch			State		CET Cutoff	JEE Cutoff	Diploma Cutoff	
+
+"COEP Technological University"				University Autonomous	First Year	Computer Science	Maharashtra	99.77				96.06	
+Pune Institute of Computer Technology, Dhankavdi, Pune 	University Autonomous	First Year	Computer Science	Maharashtra	99.40				93.63	
+Vishwakarma Institute of Technology, Bibwewadi, Pune 	University Autonomous	First Year	Computer Science	Maharashtra	98.81				92.44
+Pimpri Chinchwad College of Engineering, Pune												98.35				90
+MIT Academy of Engineering,Alandi, Pune						-		-			-		96.59				89.27
+Dr DY Patil Institute of Engineering and Technology, Ambi, Pune	  -"-		-		-			-		94.73				91.46
+Sinhgad College of Engineering, Vadgaon (BK), Pune	SPPU			-		-			-		92.81				88.31
+NBN Sinhgad Technical Institutes Campus, Pune		SPPU										89.90				80.31
+Sinhgad Academy of Engineering, Kondhwa (BK) Kondhwa-Saswad Road, Pune SPPU	-		-			-		87.84				80
+Indira College of Engineering & Management, Pune	SPPU			-		-			-		88.60				75
+Sinhagad Institute of Technology, Lonavala		SPPU			-		-			-		79.59				74
+Genba Sopanrao Moze Trust Parvatibai Genba Moze College of Engineering,Wagholi, Pune		-			-		79				73
+SKN Sinhgad Institute of Technology & Science, Kusgaon(BK),Pune. SPPU		-		-			-		77.80				66
+Shree Yash Pratishthan, Shreeyash College of Engineering and Technology, Chh. Sambhajinagar (DBATU)					66.44				66
+Hi-Tech Institute of Technology, Chh. Sambhajinagar	DBATU										42.80				57.82
